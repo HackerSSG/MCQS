@@ -2531,3 +2531,987 @@
    - C) Enhanced user experience  
    - D) Regular system updates  
    **Answer:** B
+## Active Directory - Attack Types and Vulnerabilities MCQs (Continued)
+
+361. **What type of attack uses tools to automate the guessing of usernames and passwords?**  
+   - A) Dictionary Attack  
+   - B) Brute Force Attack  
+   - C) Credential Stuffing  
+   - D) Phishing  
+   **Answer:** B
+
+362. **What is a common indicator of a potential Kerberos attack?**  
+   - A) Increased network traffic  
+   - B) Frequent authentication failures  
+   - C) Low system performance  
+   - D) User account creation  
+   **Answer:** B
+
+363. **Which of the following is a common vulnerability in Active Directory environments?**  
+   - A) Unused accounts with no password policy  
+   - B) High password complexity  
+   - C) Regular updates  
+   - D) User training programs  
+   **Answer:** A
+
+364. **What does "SPN" stand for in the context of Kerberos authentication?**  
+   - A) Service Principal Name  
+   - B) Secure Password Network  
+   - C) Security Policy Notification  
+   - D) Simple Password Name  
+   **Answer:** A
+
+365. **Which attack involves an attacker using valid credentials to access resources?**  
+   - A) Credential Harvesting  
+   - B) Man-in-the-Middle  
+   - C) Pass-the-Hash  
+   - D) Social Engineering  
+   **Answer:** C
+
+366. **What is the role of "Group Policy Objects" (GPOs) in Active Directory?**  
+   - A) To manage software installations  
+   - B) To enforce security settings and configurations  
+   - C) To create user accounts  
+   - D) To improve system performance  
+   **Answer:** B
+
+367. **Which of the following is a method used by attackers to maintain access to compromised systems?**  
+   - A) Regular password changes  
+   - B) Installing backdoors  
+   - C) Removing unused accounts  
+   - D) Monitoring system logs  
+   **Answer:** B
+
+368. **What does the term "Golden Ticket" refer to in Active Directory attacks?**  
+   - A) A special user account  
+   - B) A forged Kerberos ticket granting access to any service  
+   - C) A legitimate security feature  
+   - D) A type of malware  
+   **Answer:** B
+
+369. **Which type of Active Directory account is most commonly targeted for attacks?**  
+   - A) Standard user accounts  
+   - B) Administrator accounts  
+   - C) Guest accounts  
+   - D) Service accounts  
+   **Answer:** B
+
+370. **What is "Active Directory Federation Services" (ADFS) used for?**  
+   - A) User account management  
+   - B) Identity federation and single sign-on  
+   - C) Backing up Active Directory  
+   - D) Network performance monitoring  
+   **Answer:** B
+
+371. **What is a common vulnerability associated with user account permissions in Active Directory?**  
+   - A) Overly restrictive permissions  
+   - B) Unused accounts with high privileges  
+   - C) Properly configured roles  
+   - D) Regular reviews of permissions  
+   **Answer:** B
+
+372. **What is "Dcom" in the context of Active Directory security?**  
+   - A) A database management tool  
+   - B) A component for remote communication in Windows  
+   - C) A type of malware  
+   - D) A security feature  
+   **Answer:** B
+
+373. **Which of the following can be an indicator of a successful Active Directory compromise?**  
+   - A) Infrequent password changes  
+   - B) Unusual login activity from unfamiliar locations  
+   - C) Regular audits of user permissions  
+   - D) Enhanced network security  
+   **Answer:** B
+
+374. **What does "NTLM" stand for in Active Directory contexts?**  
+   - A) Network Token Layer Management  
+   - B) NT LAN Manager  
+   - C) Network Transport Layer Model  
+   - D) None of the above  
+   **Answer:** B
+
+375. **Which attack method can exploit weak NTLM passwords?**  
+   - A) Credential Dumping  
+   - B) SQL Injection  
+   - C) Cross-Site Scripting  
+   - D) Ransomware  
+   **Answer:** A
+
+376. **What is "Rogue Domain Controller"?**  
+   - A) A legitimate backup domain controller  
+   - B) An unauthorized or maliciously configured domain controller  
+   - C) A security feature  
+   - D) A type of software  
+   **Answer:** B
+
+377. **What is a "Phishing Attack"?**  
+   - A) An attack that uses bait to lure users into giving away credentials  
+   - B) A method to improve network speed  
+   - C) A security patch  
+   - D) A type of malware  
+   **Answer:** A
+
+378. **Which Active Directory component can be exploited to escalate privileges?**  
+   - A) User accounts  
+   - B) Group Policies  
+   - C) Security Groups  
+   - D) All of the above  
+   **Answer:** D
+
+379. **What type of attack uses fake login pages to capture user credentials?**  
+   - A) Credential Harvesting  
+   - B) SQL Injection  
+   - C) Brute Force  
+   - D) Man-in-the-Middle  
+   **Answer:** A
+
+380. **What is "Security Assertion Markup Language" (SAML)?**  
+   - A) A type of malware  
+   - B) A protocol for exchanging authentication and authorization data  
+   - C) A security vulnerability  
+   - D) None of the above  
+   **Answer:** B
+
+381. **Which attack involves manipulating AD objects to gain elevated privileges?**  
+   - A) DDoS Attack  
+   - B) Token Manipulation  
+   - C) Network Sniffing  
+   - D) SQL Injection  
+   **Answer:** B
+
+382. **What is "Privilege Escalation"?**  
+   - A) Increasing system performance  
+   - B) Gaining higher-level access than intended  
+   - C) Reducing user access rights  
+   - D) Monitoring network traffic  
+   **Answer:** B
+
+383. **What does "Shadow Admin" refer to in an Active Directory context?**  
+   - A) An administrator with limited rights  
+   - B) An unauthorized user with administrative privileges  
+   - C) A type of security patch  
+   - D) A backup domain controller  
+   **Answer:** B
+
+384. **Which type of attack is characterized by overwhelming a server to render it unavailable?**  
+   - A) SQL Injection  
+   - B) Denial of Service (DoS)  
+   - C) Phishing  
+   - D) Man-in-the-Middle  
+   **Answer:** B
+
+385. **What is the purpose of "Security Groups" in Active Directory?**  
+   - A) To manage user access rights and permissions  
+   - B) To monitor network traffic  
+   - C) To enhance system performance  
+   - D) To create backups  
+   **Answer:** A
+
+386. **Which method can be used to enhance security in an Active Directory environment?**  
+   - A) Regular audits and reviews of permissions  
+   - B) Ignoring failed login attempts  
+   - C) Using weak passwords  
+   - D) Allowing all user access  
+   **Answer:** A
+
+387. **What does "Pass-the-Ticket" attack target in Active Directory?**  
+   - A) Compromising user data  
+   - B) Stealing Kerberos tickets  
+   - C) Manipulating user accounts  
+   - D) Phishing for credentials  
+   **Answer:** B
+
+388. **Which feature in Active Directory can be abused to create unauthorized user accounts?**  
+   - A) User provisioning  
+   - B) Group Policy  
+   - C) Active Directory Replication  
+   - D) Access Control  
+   **Answer:** A
+
+389. **What is the primary purpose of Active Directory's "Replication"?**  
+   - A) To improve system performance  
+   - B) To synchronize data between domain controllers  
+   - C) To manage user accounts  
+   - D) To enhance user experience  
+   **Answer:** B
+
+390. **What is the risk associated with "Cached Credentials" in Windows?**  
+   - A) Increased performance  
+   - B) They can be extracted by an attacker if the system is compromised  
+   - C) Improved user experience  
+   - D) None of the above  
+   **Answer:** B
+## Active Directory - Attack Types and Vulnerabilities MCQs (Continued)
+
+391. **What is "Password Spraying"?**  
+   - A) Trying multiple passwords on one account  
+   - B) Trying one common password across many accounts  
+   - C) Phishing for user passwords  
+   - D) A type of denial-of-service attack  
+   **Answer:** B
+
+392. **Which of the following can be a consequence of an Active Directory compromise?**  
+   - A) Unauthorized data access  
+   - B) Increased network performance  
+   - C) Enhanced security protocols  
+   - D) None of the above  
+   **Answer:** A
+
+393. **What does "Kerberoasting" refer to in Active Directory security?**  
+   - A) A type of denial-of-service attack  
+   - B) Extracting service account credentials from Kerberos tickets  
+   - C) A phishing method  
+   - D) None of the above  
+   **Answer:** B
+
+394. **Which Active Directory component helps prevent unauthorized access to objects?**  
+   - A) Security Groups  
+   - B) Organizational Units (OUs)  
+   - C) Group Policies  
+   - D) User Accounts  
+   **Answer:** A
+
+395. **What is the primary goal of an attacker using "Lateral Movement" techniques?**  
+   - A) To steal data from a single machine  
+   - B) To move through the network to gain access to more systems  
+   - C) To improve network performance  
+   - D) To monitor user activity  
+   **Answer:** B
+
+396. **Which Active Directory feature allows for delegation of control to users?**  
+   - A) Security Groups  
+   - B) Organizational Units (OUs)  
+   - C) Group Policies  
+   - D) Trust Relationships  
+   **Answer:** B
+
+397. **What can be exploited if an Active Directory environment does not have proper account lockout policies?**  
+   - A) Brute Force Attacks  
+   - B) Network Performance  
+   - C) Data Encryption  
+   - D) File Permissions  
+   **Answer:** A
+
+398. **Which type of attack manipulates DNS requests to redirect users?**  
+   - A) Credential Stuffing  
+   - B) DNS Spoofing  
+   - C) Man-in-the-Middle  
+   - D) SQL Injection  
+   **Answer:** B
+
+399. **What is the purpose of the "User Account Control" (UAC) feature in Windows?**  
+   - A) To control user permissions and access  
+   - B) To notify users about changes to their system  
+   - C) To enforce password policies  
+   - D) To manage network traffic  
+   **Answer:** B
+
+400. **What vulnerability can arise from improper configuration of Active Directory permissions?**  
+   - A) Data Redundancy  
+   - B) Privilege Escalation  
+   - C) Network Speed  
+   - D) File Size Limits  
+   **Answer:** B
+
+401. **Which technique can attackers use to gather information about Active Directory users?**  
+   - A) Network Scanning  
+   - B) Port Scanning  
+   - C) Social Engineering  
+   - D) All of the above  
+   **Answer:** D
+
+402. **What does "Mimikatz" do in the context of Active Directory attacks?**  
+   - A) Monitors network traffic  
+   - B) Dumps passwords and Kerberos tickets from memory  
+   - C) Increases system performance  
+   - D) None of the above  
+   **Answer:** B
+
+403. **Which attack involves injecting malicious scripts into a web application to steal credentials?**  
+   - A) Cross-Site Scripting (XSS)  
+   - B) SQL Injection  
+   - C) Buffer Overflow  
+   - D) Social Engineering  
+   **Answer:** A
+
+404. **What is the function of "Delegation" in Active Directory?**  
+   - A) To transfer administrative tasks to other users  
+   - B) To manage user permissions  
+   - C) To improve system performance  
+   - D) To create backups  
+   **Answer:** A
+
+405. **Which protocol is commonly exploited in Active Directory attacks to capture credentials?**  
+   - A) HTTP  
+   - B) FTP  
+   - C) SMB  
+   - D) SMTP  
+   **Answer:** C
+
+406. **What is the term for exploiting weaknesses in the way Active Directory stores password hashes?**  
+   - A) Credential Dumping  
+   - B) Phishing  
+   - C) SQL Injection  
+   - D) Man-in-the-Middle  
+   **Answer:** A
+
+407. **What does "Evil Twin" attack involve in an Active Directory context?**  
+   - A) Using fake Wi-Fi hotspots to capture credentials  
+   - B) Manipulating DNS records  
+   - C) Phishing for user passwords  
+   - D) None of the above  
+   **Answer:** A
+
+408. **Which tool can be used to enumerate users and groups from Active Directory?**  
+   - A) Wireshark  
+   - B) Nmap  
+   - C) PowerShell  
+   - D) Metasploit  
+   **Answer:** C
+
+409. **What is the risk of allowing "Anonymous Access" to Active Directory?**  
+   - A) Increased user satisfaction  
+   - B) Information disclosure to unauthorized users  
+   - C) Improved network speed  
+   - D) Reduced network load  
+   **Answer:** B
+
+410. **What does "RDP" stand for, and why is it significant in security?**  
+   - A) Remote Desktop Protocol; it can be exploited for unauthorized access  
+   - B) Rapid Data Processing; it improves performance  
+   - C) Remote Data Protocol; used for data backup  
+   - D) None of the above  
+   **Answer:** A
+
+411. **What is the main goal of an attacker using "DNS Spoofing"?**  
+   - A) To improve network performance  
+   - B) To redirect traffic to malicious sites  
+   - C) To monitor user activity  
+   - D) To enhance security protocols  
+   **Answer:** B
+
+412. **What type of attack can be executed through vulnerabilities in Kerberos tickets?**  
+   - A) Man-in-the-Middle  
+   - B) Credential Harvesting  
+   - C) Ticket Granting Ticket (TGT) Attacks  
+   - D) All of the above  
+   **Answer:** C
+
+413. **What role does "Active Directory Certificate Services" (AD CS) play?**  
+   - A) To manage user accounts  
+   - B) To issue and manage digital certificates  
+   - C) To enforce security policies  
+   - D) To back up data  
+   **Answer:** B
+
+414. **Which attack type is characterized by gaining control over a domain administrator account?**  
+   - A) Credential Harvesting  
+   - B) Domain Escalation  
+   - C) Phishing  
+   - D) None of the above  
+   **Answer:** B
+
+415. **What is "Session Hijacking"?**  
+   - A) Gaining unauthorized access to a user's session  
+   - B) Monitoring network traffic  
+   - C) Phishing for credentials  
+   - D) None of the above  
+   **Answer:** A
+
+416. **What is the significance of "Security Event Logs" in Active Directory?**  
+   - A) They store user passwords  
+   - B) They provide auditing capabilities to monitor suspicious activity  
+   - C) They improve system performance  
+   - D) They are not important  
+   **Answer:** B
+
+417. **What does "Red Teaming" in security testing refer to?**  
+   - A) A team dedicated to improving user experience  
+   - B) Simulated attacks to test defenses  
+   - C) Regular system maintenance  
+   - D) None of the above  
+   **Answer:** B
+
+418. **Which attack exploits trust relationships between domains?**  
+   - A) Trust Exploitation  
+   - B) DDoS Attack  
+   - C) Credential Dumping  
+   - D) None of the above  
+   **Answer:** A
+
+419. **What is the role of "Service Accounts" in Active Directory?**  
+   - A) To manage user logins  
+   - B) To run applications and services under specific privileges  
+   - C) To improve network performance  
+   - D) To enhance user experience  
+   **Answer:** B
+
+420. **What does "Active Directory Replication" help to prevent?**  
+   - A) Data Loss  
+   - B) Security Breaches  
+   - C) Account Lockouts  
+   - D) Increased network load  
+   **Answer:** A
+## Advanced Active Directory - Attack Types and Vulnerabilities MCQs
+
+421. **What is the primary risk associated with using "Pass-the-Hash" attacks in Active Directory?**  
+   - A) Compromised network bandwidth  
+   - B) Unauthorized access to resources using stolen NTLM hashes  
+   - C) Increased password complexity  
+   - D) Data redundancy  
+   **Answer:** B
+
+422. **Which Active Directory component is typically exploited for privilege escalation in a domain?**  
+   - A) Domain Controllers  
+   - B) Group Policies  
+   - C) User Accounts  
+   - D) Organizational Units  
+   **Answer:** A
+
+423. **What technique can attackers use to extract NTLM hashes from memory?**  
+   - A) Network Sniffing  
+   - B) Memory Dumping  
+   - C) Social Engineering  
+   - D) Credential Dumping  
+   **Answer:** B
+
+424. **Which attack type is characterized by compromising the service account of a critical application?**  
+   - A) Credential Theft  
+   - B) Application Layer Attack  
+   - C) Domain Trust Exploitation  
+   - D) None of the above  
+   **Answer:** A
+
+425. **What does the term "Golden Ticket" refer to in Active Directory attacks?**  
+   - A) A legitimate service account  
+   - B) A forged Kerberos ticket granting access to any resource  
+   - C) A user login method  
+   - D) A security protocol  
+   **Answer:** B
+
+426. **What Active Directory feature can be exploited to carry out "Dcom" attacks?**  
+   - A) Trust Relationships  
+   - B) User Accounts  
+   - C) Domain Controllers  
+   - D) None of the above  
+   **Answer:** A
+
+427. **Which method can an attacker use to bypass Active Directory's security logging?**  
+   - A) Credential Dumping  
+   - B) Log Manipulation  
+   - C) Network Sniffing  
+   - D) Phishing  
+   **Answer:** B
+
+428. **What attack utilizes the Kerberos ticket-granting system to impersonate users?**  
+   - A) Token Impersonation  
+   - B) Service Ticket Forgery  
+   - C) Replay Attack  
+   - D) Man-in-the-Middle  
+   **Answer:** B
+
+429. **What is a significant drawback of poorly configured "Active Directory Delegation"?**  
+   - A) Increased network traffic  
+   - B) Unintentional privilege escalation  
+   - C) Decreased performance  
+   - D) None of the above  
+   **Answer:** B
+
+430. **Which attack method can be used to exploit vulnerabilities in the LDAP protocol?**  
+   - A) LDAP Injection  
+   - B) SQL Injection  
+   - C) Command Injection  
+   - D) None of the above  
+   **Answer:** A
+
+431. **What does "Resource Exhaustion" in the context of Active Directory mean?**  
+   - A) Depleting network bandwidth  
+   - B) Using up system resources to prevent legitimate access  
+   - C) Overloading user accounts  
+   - D) Compromising user passwords  
+   **Answer:** B
+
+432. **Which of the following is a key principle of defense-in-depth in Active Directory security?**  
+   - A) Relying solely on firewalls  
+   - B) Implementing multiple layers of security controls  
+   - C) Using a single antivirus solution  
+   - D) Reducing user accounts  
+   **Answer:** B
+
+433. **In the context of Active Directory, what is "Privilege Escalation"?**  
+   - A) Gaining higher privileges than those initially assigned  
+   - B) Adding more users to a group  
+   - C) Decreasing password strength  
+   - D) None of the above  
+   **Answer:** A
+
+434. **What can "Kerberos Ticket Granting Service" (TGS) attacks allow an attacker to do?**  
+   - A) Bypass user authentication  
+   - B) Access any network resource without credentials  
+   - C) Alter group policies  
+   - D) None of the above  
+   **Answer:** B
+
+435. **Which of the following describes "Silver Ticket" attacks?**  
+   - A) Forged TGT used for accessing specific services  
+   - B) A method to create strong passwords  
+   - C) A legitimate ticket for administrative access  
+   - D) None of the above  
+   **Answer:** A
+
+436. **What is the impact of enabling "NTLM Authentication" in a domain environment?**  
+   - A) Increased security  
+   - B) Greater susceptibility to pass-the-hash attacks  
+   - C) Improved network performance  
+   - D) None of the above  
+   **Answer:** B
+
+437. **Which of the following is a common technique used in "Phishing" attacks targeting Active Directory users?**  
+   - A) DNS Spoofing  
+   - B) Credential Harvesting through fake login pages  
+   - C) Brute Force Attacks  
+   - D) None of the above  
+   **Answer:** B
+
+438. **What type of information can be exfiltrated from a compromised Active Directory environment?**  
+   - A) Sensitive user data  
+   - B) Group policies  
+   - C) System configurations  
+   - D) All of the above  
+   **Answer:** D
+
+439. **What does "Account Enumeration" refer to in Active Directory security?**  
+   - A) Creating multiple user accounts  
+   - B) Identifying valid user accounts through various means  
+   - C) Counting the number of accounts  
+   - D) None of the above  
+   **Answer:** B
+
+440. **What is a potential risk associated with "Group Policy Misconfigurations"?**  
+   - A) Enhanced system performance  
+   - B) Unintended permissions and access rights  
+   - C) Improved user satisfaction  
+   - D) None of the above  
+   **Answer:** B
+
+441. **What does "DNS Poisoning" do in an Active Directory context?**  
+   - A) Enhances DNS security  
+   - B) Redirects users to malicious websites  
+   - C) Cleans up DNS records  
+   - D) None of the above  
+   **Answer:** B
+
+442. **Which type of attack specifically targets the Windows Management Instrumentation (WMI) in Active Directory?**  
+   - A) DDoS Attack  
+   - B) WMI Exploitation  
+   - C) SQL Injection  
+   - D) None of the above  
+   **Answer:** B
+
+443. **What is the purpose of "Active Directory Federation Services" (AD FS)?**  
+   - A) To manage user passwords  
+   - B) To enable single sign-on (SSO) and federated identity  
+   - C) To enhance network speed  
+   - D) To store security logs  
+   **Answer:** B
+
+444. **Which of the following is a consequence of "Session Fixation" attacks in an Active Directory environment?**  
+   - A) Unauthorized access to user sessions  
+   - B) Improved user experience  
+   - C) Increased system performance  
+   - D) None of the above  
+   **Answer:** A
+
+445. **What is "Rogue Domain Controller"?**  
+   - A) An unauthorized Domain Controller that can manipulate traffic  
+   - B) A legitimate backup domain controller  
+   - C) A controller for a small network  
+   - D) None of the above  
+   **Answer:** A
+
+446. **In the context of Active Directory, what does "Token Bypass" refer to?**  
+   - A) Circumventing security tokens to gain access  
+   - B) Improving token validation  
+   - C) Counting the number of tokens  
+   - D) None of the above  
+   **Answer:** A
+
+447. **Which type of attack leverages weaknesses in the authentication mechanism of Kerberos?**  
+   - A) Man-in-the-Middle  
+   - B) Cross-Site Scripting  
+   - C) Ticket Granting Ticket Attacks  
+   - D) None of the above  
+   **Answer:** C
+
+448. **What does "SID Filtering" help protect against in a forest trust relationship?**  
+   - A) User enumeration  
+   - B) Unauthorized access due to SID history injection  
+   - C) Password cracking  
+   - D) None of the above  
+   **Answer:** B
+
+449. **What can be a result of enabling "AdminSDHolder" incorrectly?**  
+   - A) Enhanced security  
+   - B) Privilege Escalation for unauthorized users  
+   - C) Improved performance  
+   - D) None of the above  
+   **Answer:** B
+
+450. **What does "Credential Stuffing" involve?**  
+   - A) Using stolen credentials from one site to access another  
+   - B) Phishing for user passwords  
+   - C) Guessing passwords  
+   - D) None of the above  
+   **Answer:** A
+
+451. **What is the main objective of "Active Directory Red Teaming"?**  
+   - A) To enhance user experience  
+   - B) To simulate attacks to test the security of AD environments  
+   - C) To manage user accounts  
+   - D) None of the above  
+   **Answer:** B
+
+452. **Which of the following describes "Ntlmrelayx" in the context of Active Directory attacks?**  
+   - A) A legitimate authentication method  
+   - B) A tool used for NTLM relay attacks  
+   - C) An improved version of NTLM  
+   - D) None of the above  
+   **Answer:** B
+
+453. **What is the main function of "Security Identifier" (SID) in Active Directory?**  
+   - A) To store user passwords  
+   - B) To uniquely identify objects like users and groups  
+   - C) To manage network traffic  
+   - D) None of the above  
+   **Answer:** B
+
+454. **What does "Sudo" stand for in an Active Directory context?**  
+   - A) Sufficiently User Denied Operation  
+   - B) Super User Do  
+   - C) Simple User Domain Operation  
+   - D) None of the above  
+   **Answer:** B
+
+455. **In which attack does an adversary exploit misconfigured trusts between domains?**  
+   - A) Account Enumeration  
+   - B) Domain Trust Exploitation  
+   - C) Phishing  
+   - D) None of the above  
+   **Answer:** B
+
+456. **Which of the following is a technique for bypassing Active Directory protections?**  
+   - A) Using VPN  
+   - B) Pass-the-Ticket  
+   - C) Two-Factor Authentication  
+   - D) None of the above  
+   **Answer:** B
+
+457. **What vulnerability is often associated with "Misconfigured User Permissions"?**  
+   - A) Improved security  
+   - B) Unauthorized data access  
+   - C) Increased system speed  
+   - D) None of the above  
+   **Answer:** B
+
+458. **Which of the following can be a target for a "Man-in-the-Middle" attack in Active Directory?**  
+   - A) Password Hashes  
+   - B) Network Traffic  
+   - C) User Credentials  
+   - D) All of the above  
+   **Answer:** D
+
+459. **What is the main risk associated with using "LDAP over SSL" (LDAPS)?**  
+   - A) Increased performance  
+   - B) Potential for misconfiguration leading to vulnerabilities  
+   - C) Enhanced security  
+   - D) None of the above  
+   **Answer:** B
+
+460. **What does "Kerberoasting" specifically target in an Active Directory environment?**  
+   - A) User Passwords  
+   - B) Service Accounts and their passwords  
+   - C) Network Traffic  
+   - D) None of the above  
+   **Answer:** B
+
+461. **What kind of attack is facilitated by "Group Policy Object" (GPO) misconfigurations?**  
+   - A) Phishing  
+   - B) Ransomware  
+   - C) Privilege Escalation  
+   - D) All of the above  
+   **Answer:** C
+
+462. **Which attack involves redirecting a user's login credentials to a malicious server?**  
+   - A) Credential Dumping  
+   - B) DNS Spoofing  
+   - C) Man-in-the-Middle  
+   - D) All of the above  
+   **Answer:** C
+
+463. **What is the primary purpose of the "Active Directory Security Audit"?**  
+   - A) To improve system performance  
+   - B) To identify vulnerabilities and ensure compliance  
+   - C) To manage user accounts  
+   - D) None of the above  
+   **Answer:** B
+
+464. **Which tool is commonly used for penetration testing in Active Directory environments?**  
+   - A) Nessus  
+   - B) Metasploit  
+   - C) Wireshark  
+   - D) All of the above  
+   **Answer:** D
+
+465. **What is the main risk of implementing "Delegated Administration" in Active Directory?**  
+   - A) Increased user privileges  
+   - B) Compromised domain controller  
+   - C) Reduced system performance  
+   - D) None of the above  
+   **Answer:** A
+
+466. **What is the role of the "Active Directory Certificate Services" (AD CS)?**  
+   - A) To manage user accounts  
+   - B) To issue and manage digital certificates  
+   - C) To enhance network speed  
+   - D) None of the above  
+   **Answer:** B
+
+467. **Which attack focuses on exploiting vulnerable Active Directory APIs?**  
+   - A) API Injection  
+   - B) Cross-Site Request Forgery  
+   - C) Session Hijacking  
+   - D) None of the above  
+   **Answer:** A
+
+468. **What is the main consequence of a successful "Pass-the-Ticket" attack?**  
+   - A) Increased network performance  
+   - B) Unauthorized access to resources by impersonating a user  
+   - C) Improved security  
+   - D) None of the above  
+   **Answer:** B
+
+469. **Which attack can leverage weak group policy configurations for privilege escalation?**  
+   - A) Token Impersonation  
+   - B) Pass-the-Hash  
+   - C) Privilege Escalation Attack  
+   - D) None of the above  
+   **Answer:** C
+
+470. **What is the impact of "Unauthorized Access" to "Active Directory Management Tools"?**  
+   - A) Enhanced administrative capabilities  
+   - B) Potential for massive data loss or theft  
+   - C) Increased productivity  
+   - D) None of the above  
+   **Answer:** B
+
+471. **What role do "Security Groups" play in an Active Directory attack scenario?**  
+   - A) They limit access to resources  
+   - B) They can be exploited for privilege escalation  
+   - C) They enhance system performance  
+   - D) None of the above  
+   **Answer:** B
+
+472. **What is a common risk associated with weak password policies in Active Directory?**  
+   - A) Improved user satisfaction  
+   - B) Increased chance of credential theft  
+   - C) Enhanced system performance  
+   - D) None of the above  
+   **Answer:** B
+
+473. **What is the primary goal of conducting "Red Team Exercises" in relation to Active Directory?**  
+   - A) To enhance user experience  
+   - B) To identify and exploit security weaknesses  
+   - C) To manage user accounts  
+   - D) None of the above  
+   **Answer:** B
+
+474. **What does "Domain Squatting" refer to in the context of Active Directory?**  
+   - A) Registering similar domain names to confuse users  
+   - B) Compromising domain controllers  
+   - C) Enhancing network security  
+   - D) None of the above  
+   **Answer:** A
+
+475. **Which attack method can exploit "Server Message Block" (SMB) vulnerabilities?**  
+   - A) Ransomware Attack  
+   - B) Phishing  
+   - C) Credential Harvesting  
+   - D) None of the above  
+   **Answer:** A
+
+476. **What is a critical aspect of securing "Active Directory Forests"?**  
+   - A) Enabling anonymous access  
+   - B) Limiting the number of domain controllers  
+   - C) Properly managing trust relationships  
+   - D) None of the above  
+   **Answer:** C
+
+477. **What is the risk of allowing "Anonymous Authentication" in Active Directory?**  
+   - A) Increased access control  
+   - B) Greater exposure to attacks  
+   - C) Improved performance  
+   - D) None of the above  
+   **Answer:** B
+
+478. **What does "Domain Controller Shadowing" refer to?**  
+   - A) Legitimate backup of domain controllers  
+   - B) Exploiting weak replication processes  
+   - C) Reducing the number of domain controllers  
+   - D) None of the above  
+   **Answer:** B
+
+479. **Which attack can be carried out by exploiting "Weak Encryption Algorithms"?**  
+   - A) Password Cracking  
+   - B) SQL Injection  
+   - C) Cross-Site Scripting  
+   - D) None of the above  
+   **Answer:** A
+
+480. **What does "Active Directory Exposure" mean?**  
+   - A) Allowing unauthorized access to AD components  
+   - B) Enhancing user experience  
+   - C) Increasing password strength  
+   - D) None of the above  
+   **Answer:** A
+
+481. **What type of attack does "Password Spraying" involve?**  
+   - A) Trying multiple passwords against a single user account  
+   - B) Phishing for user credentials  
+   - C) Brute-forcing the password of a single account  
+   - D) None of the above  
+   **Answer:** A
+
+482. **Which Active Directory component can be exploited through "Kerberos Ticket Granting Ticket" (TGT) theft?**  
+   - A) User Accounts  
+   - B) Domain Controllers  
+   - C) Service Accounts  
+   - D) All of the above  
+   **Answer:** D
+
+483. **What is the primary goal of "Credential Dumping" in Active Directory?**  
+   - A) To improve system performance  
+   - B) To collect user credentials for later use  
+   - C) To configure user accounts  
+   - D) None of the above  
+   **Answer:** B
+
+484. **What is the consequence of "Privilege Escalation" in Active Directory?**  
+   - A) Reduced system performance  
+   - B) Unauthorized access to sensitive resources  
+   - C) Improved user satisfaction  
+   - D) None of the above  
+   **Answer:** B
+
+485. **Which method is commonly used to exploit "Kerberos Authentication"?**  
+   - A) Pass-the-Hash  
+   - B) Pass-the-Ticket  
+   - C) SQL Injection  
+   - D) None of the above  
+   **Answer:** B
+
+486. **What does "Dcom" stand for in the context of Active Directory?**  
+   - A) Distributed Component Object Model  
+   - B) Domain Component Object Management  
+   - C) Direct Communication Over Medium  
+   - D) None of the above  
+   **Answer:** A
+
+487. **Which of the following is a typical indicator of a "Domain Admin" compromise?**  
+   - A) Increased user login attempts  
+   - B) Changes in Group Policy Objects  
+   - C) Unauthorized password resets  
+   - D) All of the above  
+   **Answer:** D
+
+488. **What is the purpose of "Security Group Enumeration"?**  
+   - A) To list all user accounts  
+   - B) To find users with excessive permissions  
+   - C) To enhance network speed  
+   - D) None of the above  
+   **Answer:** B
+
+489. **Which tool is often used for "Active Directory Enumeration"?**  
+   - A) nmap  
+   - B) BloodHound  
+   - C) Wireshark  
+   - D) Nessus  
+   **Answer:** B
+
+490. **What is the risk associated with "Weak Service Principal Name" (SPN) configurations?**  
+   - A) Enhanced security  
+   - B) Vulnerability to Kerberoasting attacks  
+   - C) Improved network performance  
+   - D) None of the above  
+   **Answer:** B
+
+491. **What is the effect of "Account Lockout Policies" being too lenient?**  
+   - A) Increased risk of brute-force attacks  
+   - B) Improved user experience  
+   - C) Reduced administrative workload  
+   - D) None of the above  
+   **Answer:** A
+
+492. **What can be a consequence of "Misconfigured File Permissions" in Active Directory?**  
+   - A) Increased data accessibility for unauthorized users  
+   - B) Improved system performance  
+   - C) Reduced security  
+   - D) None of the above  
+   **Answer:** A
+
+493. **Which of the following can be used to mitigate "Pass-the-Ticket" attacks?**  
+   - A) Implementing strong password policies  
+   - B) Regularly changing Kerberos keys  
+   - C) Using multi-factor authentication  
+   - D) All of the above  
+   **Answer:** D
+
+494. **What does "Domain Trust Relationship" refer to?**  
+   - A) The connection between two domain controllers  
+   - B) The permission granted to users in one domain to access resources in another domain  
+   - C) A protocol for managing user accounts  
+   - D) None of the above  
+   **Answer:** B
+
+495. **What kind of vulnerabilities does "LDAP Injection" exploit?**  
+   - A) User authentication flaws  
+   - B) Weak network configurations  
+   - C) Improper input validation in LDAP queries  
+   - D) None of the above  
+   **Answer:** C
+
+496. **Which attack type could be facilitated by "Poorly Configured RDP Settings"?**  
+   - A) Credential Harvesting  
+   - B) Ransomware  
+   - C) Denial of Service  
+   - D) None of the above  
+   **Answer:** A
+
+497. **What does "Active Directory Replication" entail?**  
+   - A) Distributing user accounts across servers  
+   - B) Sharing data between domain controllers  
+   - C) Backing up user passwords  
+   - D) None of the above  
+   **Answer:** B
+
+498. **Which of the following is a method for detecting "Abnormal User Behavior" in Active Directory?**  
+   - A) Log analysis  
+   - B) Network segmentation  
+   - C) Penetration testing  
+   - D) All of the above  
+   **Answer:** A
+
+499. **What is the primary risk of using "Default Administrator Accounts" in Active Directory?**  
+   - A) Increased visibility  
+   - B) Predictability for attackers  
+   - C) Enhanced security  
+   - D) None of the above  
+   **Answer:** B
+
+500. **What does "Group Policy Management" enable an administrator to do?**  
+   - A) Configure user access rights  
+   - B) Implement security settings across the domain  
+   - C) Control network traffic  
+   - D) Both A and B  
+   **Answer:** D
+
